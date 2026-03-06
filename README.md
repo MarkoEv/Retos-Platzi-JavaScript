@@ -49,29 +49,4 @@ npx vitest src/15-closures-javascript
 | ---------------------- | ------------------------------------- |
 | Closures en JavaScript | `15-closures-javascript/challenge.js` |
 
-Los retos están organizados por **niveles de dificultad** para facilitar el aprendizaje.
 
----
-
-## Contenido de los retos
-
-Los ejercicios practican conceptos como:
-
-* Closures
-* Encapsulación
-* Estado privado
-* Manejo de objetos
-* Manejo de arrays
-* Temporizadores (`setInterval`)
-
----
-
-## Contribuciones
-
-Si quieres mejorar las instrucciones o agregar nuevos retos, puedes abrir un **Pull Request**.
-
----
-
-## Autor
-
-Creado por **MarkoEv** para apoyar a estudiantes que quieran practicar los retos desde cero.
