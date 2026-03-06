@@ -6,10 +6,20 @@ En algunos casos el curso solo incluye **las soluciones**, pero no el archivo de
 Por eso este repositorio contiene versiones del archivo original con **instrucciones claras para practicar los ejercicios**.
 
 ---
+## Detalles del curso
+* Link del curso:
+[Curso de Fundamentos de JavaScript]([https://platzi.com/cursos/fundamentos-de-javascript/])
+
+* Repositorio original del curso:
+[Repositorio: Retos JavaScript-Platzi]([https://github.com/platzi/retos-javascript-fundamentos])
+
+* Docente del curso:
+**Oscar Barajas Tavares**  
+  [gndx](https://github.com/gndx)
 
 ## Objetivo
 
-Permitir que los estudiantes puedan:
+Permitir que los estudiantes de Platzi puedan:
 
 * Resolver los ejercicios desde cero
 * Practicar lógica en JavaScript
@@ -48,5 +58,9 @@ npx vitest src/15-closures-javascript
 | Tema                   | Archivo                               |
 | ---------------------- | ------------------------------------- |
 | Closures en JavaScript | `15-closures-javascript/challenge.js` |
+| ---------------------- | ------------------------------------- |
+| Arrays en JavaScript   | `16-arrays-javascript/challenge.js`   |
+| ---------------------- | ------------------------------------- |
+| Objetos en JavaScript  | `17-objetos-javascript/challenge.js`  |
 
 
