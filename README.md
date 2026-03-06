@@ -8,10 +8,10 @@ Por eso este repositorio contiene versiones del archivo original con **instrucci
 ---
 ## Detalles del curso
 * Link del curso:
-[Curso de Fundamentos de JavaScript]([https://platzi.com/cursos/fundamentos-de-javascript/])
+[Curso de Fundamentos de JavaScript](https://platzi.com/cursos/fundamentos-de-javascript/)
 
 * Repositorio original del curso:
-[Repositorio: Retos JavaScript-Platzi]([https://github.com/platzi/retos-javascript-fundamentos])
+[Repositorio: Retos JavaScript-Platzi](https://github.com/platzi/retos-javascript-fundamentos)
 
 * Docente del curso:
 **Oscar Barajas Tavares**  
