@@ -63,9 +63,7 @@ npx vitest src/15-closures-javascript
 | ---------------------- | ------------------------------------- |
 | objetos en JavaScript  | `17-objetos-javascript/challenge.js`  |
 | ---------------------- | ------------------------------------- |
-| renderizado dinamico   | `22-renderiza-dinamico/challenge.js`  |
-| ---------------------- | ------------------------------------- |
-| Objetos en JavaScript  | `17-objetos-javascript/challenge.js`  |
+| renderizado dinamico   | `22-renderiza-dinamico/challenge.js`  ||
 | ---------------------- | ------------------------------------- |
 | eventos dom JavaScript | `23-eventos-javascript/challenge.js`  |
 | ---------------------- | ------------------------------------- |
